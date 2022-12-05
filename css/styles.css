@@ -1,4 +1,21 @@
 body{
     text-align: center;
     background-color: rgb(78, 24, 128);
+    color: aliceblue;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+#container{
+    width: 70%;
+    padding: 1rem;
+    text-align: left;
+    border: 1px solid rgb(255, 255, 255);
+    margin: 0 auto;
+}
+
+#container h1{
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 1rem;
 }
