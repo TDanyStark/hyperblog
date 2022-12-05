@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color: rgb(128, 107, 24);
+    color: aliceblue;
+    font-family: 'Arial', sans-serif;
+    font-size: 20px;
+}
+
+#container{
+    width: 70%;
+    padding: 1rem;
+    text-align: left;
+    border: 1px solid rgb(255, 255, 255);
+    margin: 0 auto;
+}
+
+#container h1{
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+#cabecera{
+    background-color: rgb(108, 107, 107);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+    box-shadow: 0px 5px 30px 0px rgba(0,0,0,0.75);
+}
+
+#cabecera #tagline{
+    font-size: 0.8em;
+    padding:  0 0 0 1em;
+    font-weight: normal;
+}
